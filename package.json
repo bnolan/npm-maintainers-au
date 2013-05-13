@@ -1,0 +1,20 @@
+{
+    "name"         : "npm-maintainers-au"
+  , "version"      : "0.0.0"
+  , "description"  : "A utility to fetch and collate a list of Australian npm package maintainers"
+  , "main"         : "npm-maintainers-au.js"
+  , "scripts"      : {
+        "test": "node ./test.js"
+    }
+  , "repository"      : {
+        "type"            : "git"
+      , "url"             : "https://github.com/polyhack/npm-maintainers-au.git"
+    }
+  , "authors"         : [
+        "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)"
+    ]
+  , "license"      : "MIT"
+  , "dependencies" : {
+        "npm-maintainers" : "~0.0.0"
+    }
+}
