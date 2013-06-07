@@ -1,6 +1,6 @@
 {
     "name"         : "npm-maintainers-au"
-  , "version"      : "0.0.0"
+  , "version"      : "0.0.1"
   , "description"  : "A utility to fetch and collate a list of Australian npm package maintainers"
   , "main"         : "npm-maintainers-au.js"
   , "scripts"      : {
